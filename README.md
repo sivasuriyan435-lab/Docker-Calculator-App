@@ -16,4 +16,4 @@ Docker Hub: https://hub.docker.com/r/<your-dockerhub-username>/suriya-calculator
 
 ### Pull image
 ```bash
-docker pull <your-dockerhub-username>/suriya-calculator:latest
+docker pull sivasuriyan123/suriya-calculator:latest
